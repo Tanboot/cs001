@@ -35,6 +35,27 @@ footer {
       height: auto;
     }
   }
-body{
-background-color: #faaece;
+.go{
+  width: 1100px;
+  height: 550px;
+}
+.gop{
+    width: 1100px;
+    height: 200px;
+    padding: 5px;
+    color: rgb(19, 255, 50);
+  }
+  div.gallery {
+    margin: 30px;
+    float: left;
+    width: 180px;
+  }
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    color: rgb(150, 165, 248);
   }
